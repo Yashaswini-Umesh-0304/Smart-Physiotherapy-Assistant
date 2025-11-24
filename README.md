@@ -30,8 +30,9 @@ A computer vision-based rehabilitation assistant designed to monitor physiothera
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Smart-Physiotherapy-Assistant.git](https://github.com/YOUR_USERNAME/Smart-Physiotherapy-Assistant.git)
+    git clone https://github.com/Yashaswini-Umesh-0304/Smart-Physiotherapy-Assistant.git
     cd Smart-Physiotherapy-Assistant
+
     ```
 
 2.  **Install dependencies:**
