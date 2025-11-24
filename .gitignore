@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# logs and runtime files
+*.log
+session_metrics/
+*.sqlite3
+
+# audio/temp files your code generates
+*.mp3
+*.wav
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
